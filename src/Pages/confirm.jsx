@@ -12,7 +12,7 @@ const Confirm = () => {
           alt="Think Once Again"
           className="w-full max-w-xs mx-auto rounded-lg shadow-md"
         />
-        <h1 className="m-3 p-5 text-2xl font-bold text-pink-700">Are You Really Sure ?</h1>
+        <h1 className="m-3 p-5 text-2xl font-bold text-pink-700">PLease Be My Valentine ?</h1>
         <button
           className="px-8 py-3 text-white bg-pink-500 hover:bg-pink-600 rounded-lg shadow-lg text-lg"
           onClick={() => navigate("/proposal/accepted")}
